@@ -1,9 +1,10 @@
 ## Ola! Meu nome é Lucas Matheus(luquinhas)
 > Curso Sistemas de informação 6/8 na Universidade Tecnologica Federal do Parana (UTFPR)
-> Me aventuro em desenvolvimento desde 2014
+ Me aventuro em desenvolvimento desde 2014
 > Amo desenvolver umas telinhas no front, mas estou buscando aprender o sobre backend tambem
-> https://codepen.io/lukkasmatheu - pequeno portifolio do curso de desenvolvimento web-front pelo freecodecamp
-> 
+
+> > > https://codepen.io/lukkasmatheu - pequeno portifolio do curso de desenvolvimento web-front pelo freecodecamp
+
  <div>
   <a href="https://github.com/lukkasmatheu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukkasmatheu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
