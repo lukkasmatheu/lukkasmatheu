@@ -1,7 +1,23 @@
 ## Ola! Meu nome é Lucas Matheus (luquinhas)
-Curso Sistemas de informação 6/8 na Universidade Tecnologica Federal do Parana (UTFPR)
-/nMe aventuro em desenvolvimento desde 2014
-/nAmo desenvolver umas telinhas no front, mas estou buscando aprender o sobre backend tambem
+>Curso Sistemas de informação 6/8 na Universidade Tecnologica Federal do Parana (UTFPR)
+>Me aventuro em desenvolvimento desde 2014
+>Amo desenvolver umas telinhas no front, mas estou buscando aprender o sobre backend tambem
+
+~~~javascript
+console.log("Sempre existe algo novo a aprender ou a ensinar")
+~~~
+
+~~~java
+System.out.print("Sempre corra atras dos seus objetivos")
+~~~
+
+~~~html
+<p>Se dedique ao que ame!!</p>
+~~~
+
+~~~phyton
+print('nada por aqui ainda')
+~~~
 
  https://codepen.io/lukkasmatheu - pequeno portifolio do curso de desenvolvimento web-front pelo freecodecamp
 
