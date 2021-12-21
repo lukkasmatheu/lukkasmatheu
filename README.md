@@ -1,4 +1,5 @@
-## Ola! Meu nome é Lucas Matheus (luquinhas)
+## Ola!
+\> Meu nome é Lucas Matheus tenho 21 anos
 >Curso Sistemas de informação 6/8 na Universidade Tecnologica Federal do Parana (UTFPR)
 >Me aventuro em desenvolvimento desde 2014
 >Amo desenvolver umas telinhas no front, mas estou buscando aprender o sobre backend tambem
