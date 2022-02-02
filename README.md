@@ -1,5 +1,5 @@
 ## Ola!
-\> Meu nome é Lucas Matheus tenho 21 anos
+\> Meu nome é Lucas Matheus 
 >Curso Sistemas de informação 6/8 na Universidade Tecnologica Federal do Parana (UTFPR)
 >Me aventuro em desenvolvimento desde 2014
 >Amo desenvolver umas telinhas no front, mas estou buscando aprender o sobre backend tambem
@@ -24,7 +24,7 @@ print('nada por aqui ainda')
 
  <div>
   <a href="https://github.com/lukkasmatheu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukkasmatheu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukkasmatheu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukkasmatheu&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
