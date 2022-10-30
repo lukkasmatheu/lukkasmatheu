@@ -1,8 +1,10 @@
 ## Ola!
 \> Meu nome é Lucas Matheus 
->Curso Sistemas de informação 6/8 na Universidade Tecnologica Federal do Parana (UTFPR)
+>Curso Sistemas de informação 8/8 na Universidade Tecnologica Federal do Parana (UTFPR)
 >Me aventuro em desenvolvimento desde 2014
->Amo desenvolver umas telinhas no front, mas estou buscando aprender o sobre backend tambem
+>Amo desenvolver umas telinhas no front, mas estou buscando aprender o sobre back-end tambem
+
+>Atualmente atuando a dois anos como fullstack, utilizando as tecnologias : java, javascript, typescript, react, jsp, aem, jboss, spring boot, mensagerias (kafka,sqs) , mongo DB , MariaDB, oracle e casandra(Dynamo). 
 
 ~~~javascript
 console.log("Sempre existe algo novo a aprender ou a ensinar")
