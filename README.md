@@ -4,7 +4,7 @@
 >Me aventuro em desenvolvimento desde 2014
 >Amo desenvolver umas telinhas no front, mas estou buscando aprender o sobre back-end tambem
 
->Atualmente atuando a dois anos como fullstack, utilizando as tecnologias : java, javascript, typescript, react, jsp, aem, jboss, spring boot, mensagerias (kafka,sqs) , mongo DB , MariaDB, oracle e casandra(Dynamo). 
+>Atualmente atuando a mais de quatro anos como fullstack, utilizando as tecnologias : java, javascript, typescript, react, jsp, aem, jboss, spring boot, mensagerias (kafka,sqs) , mongo DB , MariaDB, oracle e casandra(Dynamo). 
 
 ~~~javascript
 console.log("Sempre existe algo novo a aprender ou a ensinar")
